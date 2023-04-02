@@ -1,0 +1,8 @@
+Zone,Heating Degree Days,Cooling Degree Days
+Zone 1,6000,0
+Zone 2,7000,300
+Zone 3,8000,400
+Zone 4,9000,500
+Zone 5,10000,600
+Zone 6,11000,700
+Zone 7,12000,800
